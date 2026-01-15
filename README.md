@@ -6,6 +6,9 @@
 
 A Windows information gathering tool written in Go for security research and malware analysis education. Demonstrates browser data extraction techniques for defensive security understanding.
 
+
+*Keywords: stealer, infostealer, password stealer, credential stealer, browser stealer, cookie stealer, discord token grabber, discord stealer, telegram grabber, crypto wallet stealer, metamask stealer, phantom wallet, exodus stealer, chrome password stealer, edge password stealer, brave stealer, windows malware, golang malware, go stealer, rat, trojan, credential harvester, password dumper, DPAPI, token logger, session hijacker, redline stealer alternative, raccoon stealer, vidar stealer, mars stealer, aurora stealer, lumma stealer, stealc, rhadamanthys, mystic stealer, meta stealer, risepro, amadey, formbook, lokibot, azorult, predator stealer, kpot stealer, arkei stealer, oski stealer, research, malware analysis, reverse engineering, security research, red team, penetration testing, offensive security*
+
 ---
 
 ## ⚠️ **DISCLAIMER**
